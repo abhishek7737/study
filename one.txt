@@ -1,1 +1,4 @@
 Wellcome to my class
+Hello
+Hi
+bye
